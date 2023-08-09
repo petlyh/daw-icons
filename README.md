@@ -2,7 +2,9 @@
 
 #### Text-based track icons for your DAW.
 
-## Usage
+https://petlyh.github.io/daw-icons/
+
+### Generating icons
 
 - Install the requirements:
     - [Python](https://www.python.org/downloads/)
