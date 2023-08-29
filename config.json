@@ -182,7 +182,7 @@
                 ["Tuba", "TUBA"],
                 ["Cimbasso", "CIM", "Cimbasso"],
                 ["Cornet", "CRNT", "Cornet"],
-                ["Euphonium", "EUPH", "Euphonium"],
+                ["Euphonium", "EUPH"],
                 ["Flugelhorn", "HRN", "Flugel"]
             ],
             "Trumpet": [
